@@ -1,5 +1,6 @@
 # CS210-ChadaTech-Proj1
 CS210 course project: Dual clock program written in C++
+
 Project Summary
 This project centered on building a dual-clock program in C++ that displays both 12-hour and 24-hour time formats. The application allows users to increment hours, minutes, and seconds through a simple menu interface. The goal was to design a functional, readable, and modular program that demonstrates core programming concepts such as time formatting, arithmetic logic, and structured program design.
 
